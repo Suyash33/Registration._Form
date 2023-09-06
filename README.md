@@ -20,4 +20,6 @@ Feel free to customize and build upon this project for your own use.
 
 ## Contact
 
-For questions or feedback, please reach out. Happy coding!
+For questions or feedback, please reach out. 
+
+## Happy coding!
